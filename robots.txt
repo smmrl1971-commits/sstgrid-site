@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sstgrid.com.br/sitemap.xml

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="t d">
+<title id="t">Operação de SST em campo</title><desc id="d">Ilustração de trabalhador com capacete usando tablet em um canteiro industrial.</desc>
+<rect width="1200" height="800" rx="44" fill="#eef4ff"/>
+<circle cx="1030" cy="130" r="170" fill="#d8e7ff"/><circle cx="140" cy="700" r="210" fill="#e3edff"/>
+<path d="M0 610h1200v190H0z" fill="#d6e3f7"/>
+<path d="M760 195h310v390H760z" fill="#d7e5fa"/><path d="M805 235h65v350h-65zM925 235h65v350h-65z" fill="#1557b0" opacity=".18"/>
+<path d="M720 570h410" stroke="#1557b0" stroke-width="16" stroke-linecap="round" opacity=".25"/>
+<g transform="translate(165 115)">
+<circle cx="265" cy="170" r="88" fill="#f1c8ad"/>
+<path d="M174 165c0-74 44-120 93-120s95 44 95 120z" fill="#1557b0"/>
+<path d="M188 119c21-59 62-85 112-75 38 7 63 30 75 67-62 20-125 22-187 8z" fill="#2b73cf"/>
+<path d="M165 153h207" stroke="#0d2f5c" stroke-width="20" stroke-linecap="round"/>
+<path d="M182 267c54-34 115-35 171 0l72 218H101z" fill="#1d67c7"/>
+<path d="M142 302l-92 208 59 25 102-181M385 300l100 170-54 34-97-143" fill="none" stroke="#f1c8ad" stroke-width="42" stroke-linecap="round"/>
+<rect x="260" y="320" width="220" height="165" rx="18" fill="#0d2f5c" transform="rotate(-8 370 402)"/>
+<rect x="279" y="339" width="181" height="126" rx="10" fill="#f9fbff" transform="rotate(-8 370 402)"/>
+<circle cx="370" cy="399" r="28" fill="#dce9ff"/><path d="M355 401l12 12 22-29" fill="none" stroke="#1557b0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M103 485h328v82H103z" fill="#123f7a" opacity=".22"/>
+<path d="M187 260h155" stroke="#fff" stroke-width="8" opacity=".75"/>
+</g>
+<g transform="translate(790 500)">
+<rect width="265" height="128" rx="24" fill="#fff"/><circle cx="55" cy="54" r="24" fill="#dce9ff"/><path d="M44 55l9 9 18-23" fill="none" stroke="#1557b0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="94" y="37" width="119" height="12" rx="6" fill="#183b6b"/><rect x="94" y="61" width="90" height="9" rx="4.5" fill="#9fb6d7"/><rect x="36" y="94" width="175" height="8" rx="4" fill="#d8e4f4"/>
+</g>
+</svg>

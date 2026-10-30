@@ -1,10 +1,10 @@
 :root{
-  --ink:#10213f;
+  --ink:#123B4A;
   --muted:#5f6f86;
-  --green:#1557b0;
-  --green-2:#1d67c7;
-  --green-3:#e7f0ff;
-  --mint:#f0f5ff;
+  --green:#0F766E;
+  --green-2:#115E59;
+  --green-3:#e6f4f1;
+  --mint:#f0f9f7;
   --cream:#f7f9fc;
   --line:#dde5f0;
   --white:#fff;
@@ -240,3 +240,17 @@ footer{padding:38px 0;background:white}.footer-grid{display:grid;grid-template-c
   .feature-grid,.difference-grid,.audience-grid{grid-template-columns:1fr}.visual-card:not(.visual-card-wide){grid-template-columns:1fr}.visual-card:not(.visual-card-wide) img{height:auto;aspect-ratio:16/9}.feature-card,.difference-card{min-height:0}.feature-card h3,.difference-card h3{margin-top:28px}.hero-difference{align-items:flex-start;flex-direction:column;gap:8px}
   .section-heading h2,.process-copy h2,.security-copy h2,.faq h2,.cta-card h2{font-size:34px}.security-panel{min-height:300px}.lead-form{grid-template-columns:1fr}.cta-card{padding:28px 20px}.footer-grid{grid-template-columns:1fr}.footer-meta{text-align:left}.footer-links{flex-direction:row;flex-wrap:wrap}
 }
+
+/* SST Grid: marca e mascote aprovados. */
+.brand-mark{width:48px;height:48px;flex:0 0 48px;border-radius:10px;background:#fff}
+.brand-mark img{position:static;width:100%;height:100%;max-width:100%;object-fit:contain}
+.button-primary:hover{background:#115E59}
+.grid-mascot-section{padding:40px 0 16px}
+.grid-mascot-card{display:grid;grid-template-columns:1.1fr .9fr;align-items:center;gap:48px;padding:40px;background:#f0f7f5;border:1px solid #d6e8e3;border-radius:28px}
+.grid-mascot-copy h2{margin:14px 0;font-size:clamp(32px,4vw,48px);line-height:1.1;letter-spacing:-.04em}
+.grid-mascot-copy p{max-width:560px;color:var(--muted);font-size:16px;line-height:1.75}
+.grid-mascot-copy .grid-mascot-tagline{font-weight:750;color:#123B4A}
+.grid-mascot-copy .button{margin-top:12px}
+.grid-mascot-card figure{margin:0;max-width:380px;justify-self:center;width:100%}
+.grid-mascot-card img{display:block;width:100%;height:auto;border-radius:24px}
+@media(max-width:650px){.grid-mascot-card{grid-template-columns:1fr;padding:24px;gap:24px}.grid-mascot-card figure{max-width:290px}.grid-mascot-section{padding-top:28px}}
